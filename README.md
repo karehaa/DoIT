@@ -13,3 +13,12 @@ i do this mainly because i want to improve my programming skill by actually prac
 - Lists strike-through when finished
 - Show progress for each day/week/month/year (Percentage of daily/weekly/monthly/annually completion)
 - Collaboration (optional)
+
+## 11/11/2024 Progress
+Improving the UI design before turning it into codes. The design concept i am interested in is:
+- Simple
+- Minimalist
+- Not many colors
+- Beginner Friendly
+
+As for the name of the app, i think sticking with "Do!T" is good already, that name is quite catchy and very self-explanatory.
