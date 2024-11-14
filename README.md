@@ -22,3 +22,15 @@ Improving the UI design before turning it into codes. The design concept i am in
 - Beginner Friendly
 
 As for the name of the app, i think sticking with "Do!T" is good already, that name is quite catchy and very self-explanatory.
+
+## 14/11/2024 Progress
+Skipped 2 days due to the many assignments on campus, but finally i have time to work on this again.
+I have been thinking of something to do about this, but i guess my priority is to finish the UI design first.
+
+I might make it real simple, for as long as it is functional, my objectives here is to learn to apply my knowledge on flutter,
+so i think i should make this project functional while keeping it realistic to do.
+
+While i do still want to retain all the Feature i wrote previously, i think i might remove some on the process of making this if it gets overly hard
+Though i might still consider to YOLO throught the hardships cuz that is what make me improve.
+
+So this is the docomentary for this whole project. Hopefully it will be something i can be proud of.
