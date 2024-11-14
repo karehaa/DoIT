@@ -31,6 +31,6 @@ I might make it real simple, for as long as it is functional, my objectives here
 so i think i should make this project functional while keeping it realistic to do.
 
 While i do still want to retain all the Feature i wrote previously, i think i might remove some on the process of making this if it gets overly hard
-Though i might still consider to YOLO throught the hardships cuz that is what make me improve.
+Though i might still consider to YOLO through the hardships cuz that is what make me improve.
 
 So this is the docomentary for this whole project. Hopefully it will be something i can be proud of.
