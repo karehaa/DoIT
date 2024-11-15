@@ -34,3 +34,8 @@ While i do still want to retain all the Feature i wrote previously, i think i mi
 Though i might still consider to YOLO through the hardships cuz that is what make me improve.
 
 So this is the docomentary for this whole project. Hopefully it will be something i can be proud of.
+
+## 15/11/2024 Progress
+Still working on the UI design, im getting somewhere and have a vague idea of how i want it to look like.
+
+I just need to make this design able to handle all the feature that i want to create, somehow. lol.
