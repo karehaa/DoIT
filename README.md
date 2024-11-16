@@ -39,3 +39,10 @@ So this is the docomentary for this whole project. Hopefully it will be somethin
 Still working on the UI design, im getting somewhere and have a vague idea of how i want it to look like.
 
 I just need to make this design able to handle all the feature that i want to create, somehow. lol.
+
+## 16/11/2024 Progress
+I finished the design, not the whole, but the initial design. I still have a lot more to go, but this is finally time where i can start.
+
+I will start implementing the design into codes, but for today i guess i will just change the background color, lol.
+
+But if later i feel that i want to do more, then i will do more.
