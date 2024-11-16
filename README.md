@@ -46,3 +46,5 @@ I finished the design, not the whole, but the initial design. I still have a lot
 I will start implementing the design into codes, but for today i guess i will just change the background color, lol.
 
 But if later i feel that i want to do more, then i will do more.
+
+Extra: On a whim, i tried to use kanata to remap my capslock key to a mod-tap of esc and lctrl key, was quite fun actually, lol, that's just it.
