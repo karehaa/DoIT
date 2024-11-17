@@ -50,3 +50,12 @@ But if later i feel that i want to do more, then i will do more.
 Extra: On a whim, i tried to use kanata to remap my capslock key to a mod-tap of esc and lctrl key, was quite fun actually, lol, that's just it.
 
 Another Extra: felt like i want to do more, so i coded a little bit of the UI, still need to figure out on how to make it actually scrollable, so still a long way to go i guess.
+
+## 17/11/2024 Progress
+I guess today is somewhat a rest day, lol. i needed some rest. But from my research i know that to make this scrollable there is something that i need to understand.
+
+That is about GestureDetector or whatever it is called, i need to also combine it with some animation i guess? i don't know.
+
+For now i have no idea on how to implement it, but well, imma make it happen, for now today progression i guess i will just move the Stack widget to a separate .dart Friendly
+
+cuz if i guess correctly, i will be needing a Stateful class to make this scrolling thingy happen.
