@@ -19,8 +19,20 @@ class _TodoPage extends State<TodoPage> {
           color: Color.fromRGBO(229, 229, 229, 1),
           borderRadius: BorderRadius.only(
               topLeft: Radius.circular(49), topRight: Radius.circular(49))),
-      child: const Center(
-        child: Text("Todo Lists"),
+      child: Center(
+        child: Column(
+          children: [
+            Container(
+              width: 110,
+              height: 10,
+              margin: const EdgeInsets.only(top: 12),
+              decoration: const BoxDecoration(
+                  borderRadius: BorderRadius.all(Radius.circular(20)),
+                  color: Colors.black),
+            ),
+            const Expanded(child: Center(child: Text("Todo Page")))
+          ],
+        ),
       ),
     );
   }
