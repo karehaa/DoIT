@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
 class TodoPage extends StatefulWidget {
-  const TodoPage({super.key});
+  TodoPage({super.key, required this.screenSize, required this.pageHeight});
+  Size screenSize;
+  double pageHeight;
   @override
   State<TodoPage> createState() {
     return _TodoPage();
@@ -12,9 +14,8 @@ class _TodoPage extends State<TodoPage> {
   @override
   Widget build(context) {
     return Container(
-      width: double.infinity,
-      height: double.infinity,
-      margin: const EdgeInsets.only(top: 65),
+      width: widget.screenSize.width,
+      height: widget.pageHeight,
       decoration: const BoxDecoration(
           color: Color.fromRGBO(229, 229, 229, 1),
           borderRadius: BorderRadius.only(
