@@ -62,3 +62,6 @@ cuz if i guess correctly, i will be needing a Stateful class to make this scroll
 
 ## 18/11/2024 Progress
 Added a small draggable scroll indicator at the top of the todo page. i have been seeing and trying to understand the concept of GestureDetector and how i can implement it, but well, kinda complicated. But i think this is that one concept where if you get the catch once, you will be able to understand it and implement it however you want, i just need to get myself together and try to understand this GestureDetector thingy, all i know now is that for my feature to work i will be need onVerticalDragUpdate and some animation? i don't know, i will try to understand it more.
+
+## 19/11/2024
+Finally able to understand the GestureDetector and make the todo page scrollable! so happy, big progress for me. Loving this project so far. Next probably before i go to the actual contents, i will try and make the animation a bit more smoother if possible, and just kinda optimize things that can be optimized.
