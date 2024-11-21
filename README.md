@@ -65,3 +65,9 @@ Added a small draggable scroll indicator at the top of the todo page. i have bee
 
 ## 19/11/2024
 Finally able to understand the GestureDetector and make the todo page scrollable! so happy, big progress for me. Loving this project so far. Next probably before i go to the actual contents, i will try and make the animation a bit more smoother if possible, and just kinda optimize things that can be optimized.
+
+## 20/11/2024
+Nothing much, just small optimization.
+
+## 21/11/2024
+BIG OPTIMIZATION! im loving today's improvement on the UI/UX, the animation is smoother and i have managed to make it more optimized by utilizing vsync and .dispose() method, it is overall quite confusing, and i still need to understand more about a few parts, but overall i gained so much knowledge by doing this! Today is a big improvements! im enjoying and falling deeper and deeper in the enjoyment of programming (well, gotta love the errors that comes with it too, lol.)
