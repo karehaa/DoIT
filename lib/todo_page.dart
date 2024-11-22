@@ -32,7 +32,14 @@ class _TodoPage extends State<TodoPage> {
                   borderRadius: BorderRadius.all(Radius.circular(20)),
                   color: Colors.black),
             ),
-            const Expanded(child: Center(child: Text("Todo Page")))
+            Expanded(
+              child: Center(
+                child: Container(
+                  padding: const EdgeInsets.only(right: 30, left: 30),
+                  child: const TextField(),
+                ),
+              ),
+            ),
           ],
         ),
       ),

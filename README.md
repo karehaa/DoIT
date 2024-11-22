@@ -71,3 +71,6 @@ Nothing much, just small optimization.
 
 ## 21/11/2024
 BIG OPTIMIZATION! im loving today's improvement on the UI/UX, the animation is smoother and i have managed to make it more optimized by utilizing vsync and .dispose() method, it is overall quite confusing, and i still need to understand more about a few parts, but overall i gained so much knowledge by doing this! Today is a big improvements! im enjoying and falling deeper and deeper in the enjoyment of programming (well, gotta love the errors that comes with it too, lol.)
+
+## 22/11/2024
+There is really nothing that changed, it is been a busy day that i can not really put on any work.
