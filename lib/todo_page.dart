@@ -33,11 +33,15 @@ class _TodoPage extends State<TodoPage> {
                   color: Colors.black),
             ),
             Expanded(
-              child: Center(
-                child: Container(
-                  padding: const EdgeInsets.only(right: 30, left: 30),
-                  child: const TextField(),
-                ),
+              child: Column(
+                children: [
+                  const Text("Groceries"),
+                  const Text("Lists"),
+                  FloatingActionButton(
+                    onPressed: () {},
+                    child: const Icon(Icons.add),
+                  )
+                ],
               ),
             ),
           ],
