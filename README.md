@@ -80,3 +80,6 @@ Today, i don't really immediately go into putting more feature, i am just doing 
 
 ## 24/11/2024
 Didn't do much, i was getting sidetracked and leanrt dart itself, lol. It is very similar with Java (language that i use for my college), so it is a bit interesting, and kinda get my attention a bit, lmao. But well, im still cool with new knowledge you know? the thing about learning is that you will always find a new and interesting stuff to leanr and understand, and the best way to learn is to enjoy what you learn and the whole process, so yeah (i am absolutely not defending myself from sidetracking rn).
+
+## 27/11/2024
+Yep, kinda skipped a few days, lately im quite busy with preparing for my final semester test, so i don't really have much time to spend on this project, but i will try to make sure from now on to at least try and spend some small portion of my time toward this project even if im busy.
