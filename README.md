@@ -83,3 +83,6 @@ Didn't do much, i was getting sidetracked and leanrt dart itself, lol. It is ver
 
 ## 27/11/2024
 Yep, kinda skipped a few days, lately im quite busy with preparing for my final semester test, so i don't really have much time to spend on this project, but i will try to make sure from now on to at least try and spend some small portion of my time toward this project even if im busy.
+
+## 28/11/2024
+PROJECT WILL BE ON HOLD. As my final exams is only 1 week away, i need to focus more on my study as i do not want any fall on my academic life. So this project will be on hold until my exam days are over, best of luck to me.
