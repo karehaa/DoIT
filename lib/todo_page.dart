@@ -38,7 +38,7 @@ class _TodoPage extends State<TodoPage> {
                   const Text("Groceries"),
                   const Text("Lists"),
                   FloatingActionButton(
-                    onPressed: () {},
+                    onPressed: () => _todoListInputWindow(context),
                     child: const Icon(Icons.add),
                   )
                 ],
@@ -49,4 +49,15 @@ class _TodoPage extends State<TodoPage> {
       ),
     );
   }
+}
+
+Future _todoListInputWindow(BuildContext context) {
+  return showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return const AlertDialog(
+          title: Text("What to do?"),
+          content: TextField(),
+        );
+      });
 }
