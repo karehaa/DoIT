@@ -86,3 +86,6 @@ Yep, kinda skipped a few days, lately im quite busy with preparing for my final 
 
 ## 28/11/2024
 PROJECT WILL BE ON HOLD. As my final exams is only 1 week away, i need to focus more on my study as i do not want any fall on my academic life. So this project will be on hold until my exam days are over, best of luck to me.
+
+## 24/01/2025
+BACK TO WORK! finally after going through exam weeks i can go back to work on this project, i have been neglecting this project for most of my holidays but it is fine! because i need rest too after all the hectic exam weeks in order to avoid getting burnt out, and so now i finally choose to get back to work. Very excited!
