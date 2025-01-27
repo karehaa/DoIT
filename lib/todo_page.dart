@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:to_do_app/todo_window_button.dart';
 
 class TodoPage extends StatefulWidget {
   const TodoPage(
@@ -32,15 +33,12 @@ class _TodoPage extends State<TodoPage> {
                   borderRadius: BorderRadius.all(Radius.circular(20)),
                   color: Colors.black),
             ),
-            Expanded(
+            const Expanded(
               child: Column(
                 children: [
-                  const Text("Groceries"),
-                  const Text("Lists"),
-                  FloatingActionButton(
-                    onPressed: () => _todoListInputWindow(context),
-                    child: const Icon(Icons.add),
-                  )
+                  Text("Groceries"),
+                  Text("Lists"),
+                  TodoWindowButton()
                 ],
               ),
             ),
@@ -49,15 +47,4 @@ class _TodoPage extends State<TodoPage> {
       ),
     );
   }
-}
-
-Future _todoListInputWindow(BuildContext context) {
-  return showDialog(
-      context: context,
-      builder: (BuildContext context) {
-        return const AlertDialog(
-          title: Text("What to do?"),
-          content: TextField(),
-        );
-      });
 }
