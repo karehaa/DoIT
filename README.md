@@ -89,3 +89,6 @@ PROJECT WILL BE ON HOLD. As my final exams is only 1 week away, i need to focus 
 
 ## 24/01/2025
 BACK TO WORK! finally after going through exam weeks i can go back to work on this project, i have been neglecting this project for most of my holidays but it is fine! because i need rest too after all the hectic exam weeks in order to avoid getting burnt out, and so now i finally choose to get back to work. Very excited!
+
+## 27/01.2025
+Made a few configuration, especially on the floating button. But i still have a slight problem, that is how am i supposed to send the text data from the alert window to the todo page? Because i need to do that in order to turn the texts written by the users to the checkable lists. Am i right? or am i missing something? Well i will just have to find out. I will find a way.
